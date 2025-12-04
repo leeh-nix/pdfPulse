@@ -1,5 +1,5 @@
-PyPDF2
-langchain
-google-generativeai
+PyPDF2==3.0.1
+langchain==0.3.7
+google-generativeai==0.5.4
 pinecone
 streamlit

@@ -43,7 +43,7 @@ PINECONE_API = (
 st.session_state.index = ""
 global queryable
 
-# TODO - Fetch index names using the api key and display as a dropdown menu to select the index from.
+
 if GEMINI_API and PINECONE_API:
     try:
         initialize_gemini(GEMINI_API)
